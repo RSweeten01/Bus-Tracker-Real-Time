@@ -1,8 +1,8 @@
-### Real Time Bus Tracker
+## Real Time Bus Tracker
 
-# This is a Bus Tracker in real time to map out the buses that travel along the route from MIT to Harvard. The mapping uses the MBTA API for data on the Buses latest location update then supplies that information to mapboxgl to display the locations on the map.
+ This is a Bus Tracker in real time to map out the buses that travel along the route from MIT to Harvard. The mapping uses the MBTA API for data on the Buses latest location update then supplies that information to mapboxgl to display the locations on the map.
  
-# Once the MapAnimations.js, styles.css, and index.html are copied the bus tracker will work without issue.
+ Once the MapAnimations.js, styles.css, and index.html are copied the bus tracker will work without issue.
 
 // Roadmap of future improvements: What additional features or functionality would be helpful to a user? 
 
