@@ -4,7 +4,7 @@
  
  Once the MapAnimations.js, styles.css, and index.html are copied the bus tracker will work without issue.
 
-## Roadmap of future improvements: 
+## Future Improvements: 
 Add more routes
 
 Add in options to highlight routes 
